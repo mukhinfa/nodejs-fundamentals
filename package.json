@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-fundamentals",
+  "version": "0.0.1",
+  "description": "fundamentals of nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "js"
+  ],
+  "author": "Fedor M, <molot1ok@gmail.com>",
+  "license": "ISC"
+}
