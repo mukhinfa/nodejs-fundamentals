@@ -7,4 +7,4 @@ console.log(path.parse(__filename));
 console.log(path.parse(__filename).root);
 
 console.log(path.join(__dirname, '..', 'second.html'));
-console.log(path.resplve(__dirname, 'test', 'second.html'))
+console.log(path.resplve(__dirname, 'test', 'second.html'));
